@@ -1,0 +1,17 @@
+p{
+
+}
+a{
+
+	
+}
+a:hover{
+	color: red;
+}
+img{
+	width: 250px;
+}
+img:hover{
+		transform: scale(1.1);
+
+}
